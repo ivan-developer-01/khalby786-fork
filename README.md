@@ -42,11 +42,11 @@
 ## stuff i posted on dev.to
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://dev.to/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
+- [How to create and publish your own Vue component libraries &lpar;actually works I swear&rpar;](https://forem.com/khalby786/how-to-create-and-publish-your-own-vue-component-libraries-actually-works-i-swear-15ol)
+- [My Favourite Web Development Tools!](https://forem.com/khalby786/my-favourite-web-development-tools-16af)
+- [Create a custom 404 page for your Vue 2 app](https://forem.com/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
+- [REHeader - GitHub Profile README Header Image Generator](https://forem.com/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
+- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://forem.com/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
